@@ -41,7 +41,7 @@ mkdir -p ~/.config/home-manager
 mkdir -p ~/.config/alacritty
 
 cp -r ~/Nix-Configs/home-manager/* ~/.config/home-manager/
-cp -r ~/Nix-Configs/alacritty/* ~/.config/alacritty/
+
 
 # Step 8 - Purge apt git + apply home-manager
 echo "[8/8] Purging apt git and applying Home Manager..."

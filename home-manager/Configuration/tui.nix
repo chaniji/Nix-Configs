@@ -19,5 +19,6 @@
 
     #-- Timer/Pomodoro
     timr-tui
-  ];
+    neovim  
+];
 }

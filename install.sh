@@ -7,7 +7,7 @@ echo "===================================="
 # Step 1 - Install dependencies
 echo "[1/11] Installing apt dependencies..."
 sudo apt update
-sudo apt install -y xz-utils alacritty git curl fontconfig
+sudo apt install -y xz-utils alacritty git curl fontconfig zstd
 
 # Step 2 - Install Nix
 echo "[2/11] Installing Nix..."

@@ -1,8 +1,9 @@
 { config, pkgs, ... }:
 {
     imports = [
-    ./packages.nix
-    ];
+     ./packages.nix
+     ./zsh.nix   
+];
   
   home.username = "chan";
   home.homeDirectory = "/home/chan";

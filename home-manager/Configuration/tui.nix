@@ -16,7 +16,7 @@
 
     #-- API
     posting
-
+    fastfetch
     #-- Timer/Pomodoro
     timr-tui
     neovim  

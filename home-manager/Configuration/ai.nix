@@ -4,6 +4,6 @@
   home.packages = with pkgs; [
     gemini-cli
     opencode
-    aider  
+    aider-chat
 ];
 }
